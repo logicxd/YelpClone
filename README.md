@@ -7,6 +7,6 @@ Practice of Objective-C UIKit by cloning Yelp's review UI
 * Learning AppDelegate, ViewController, and Views. 
 * Getting to know UIKit and Foundation.
 * New to Objective-C.
-* Use of [Masonry](https://github.com/SnapKit/Masonry) to layout constraints.
+* Use of [Masonry](https://github.com/SnapKit/Masonry) to autolayout constraints.
 
 ![YelpClone Image](https://github.com/logicxd/YelpClone/blob/master/YelpScreenShot.png)
