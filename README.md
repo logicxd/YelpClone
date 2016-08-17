@@ -1,5 +1,5 @@
 # YelpClone
-Practice of Objective-C UIKit by cloning Yelp's review UI
+Practice of Objective-C UIKit by cloning Yelp's review UI.
 
 ### Overview
 
@@ -13,7 +13,5 @@ Practice of Objective-C UIKit by cloning Yelp's review UI
 
 ---
 
-Plan Chat.
-Mentor: [Rey](https://github.com/reygonzales)
-
-Partner: [Alaric](https://github.com/AlaricGonzales?tab=repositories)
+### Acknowledgements
+My mentor [Rey](https://github.com/reygonzales) for creating the assignments and teaching me and my partner [Alaric](https://github.com/AlaricGonzales) 
