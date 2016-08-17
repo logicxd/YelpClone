@@ -9,7 +9,7 @@ Practice of Objective-C UIKit by cloning Yelp's review UI.
 * New to Objective-C.
 * Use of [Masonry](https://github.com/SnapKit/Masonry) to auto-layout constraints.
 
-![YelpClone Image](YelpClone/YelpScreenShot.png)
+![YelpClone Image](../YelpScreenShot.png)
 
 ---
 
