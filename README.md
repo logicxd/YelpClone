@@ -14,4 +14,4 @@ Practice of Objective-C UIKit by cloning Yelp's review UI.
 ---
 
 ### Acknowledgements
-My mentor [Rey](https://github.com/reygonzales) for creating the assignments and teaching me and my partner [Alaric](https://github.com/AlaricGonzales) 
+My mentor [Rey](https://github.com/reygonzales) for guiding us through the assignment. This assignment was done together with  [Alaric](https://github.com/AlaricGonzales) at our internship at PlanChat. 
