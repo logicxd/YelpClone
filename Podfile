@@ -1,2 +1,4 @@
 platform :ios, '8.0'
-pod "Masonry"
+target 'Test5' do
+	pod "Masonry"
+end
